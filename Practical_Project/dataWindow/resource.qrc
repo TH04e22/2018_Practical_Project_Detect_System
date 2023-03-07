@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/image/action">
+        <file>data.png</file>
+        <file>tool.png</file>
+        <file>save.png</file>
+        <file>about.png</file>
+        <file>window.png</file>
+        <file>add.png</file>
+        <file>minus.png</file>
+    </qresource>
+</RCC>

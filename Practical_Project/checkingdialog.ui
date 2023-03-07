@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>checkingDialog</class>
+ <widget class="QDialog" name="checkingDialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>900</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>查看數據</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>../14650616_1373983492625534_4218606715525314813_n.jpg</normaloff>../14650616_1373983492625534_4218606715525314813_n.jpg</iconset>
+  </property>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
